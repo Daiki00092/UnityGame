@@ -15,6 +15,7 @@ public class MoveEnemy : MonoBehaviour
     //private CharacterController enemyController;
     private Animator animator;
     private NavMeshAgent navMeshAgent;
+    private Canvas canvas;
     //目的地
     private Vector3 destination;
     //到着判定
@@ -45,6 +46,8 @@ public class MoveEnemy : MonoBehaviour
         //メソッド呼び出し
         CreateRandomPosition();
         SetState(EnemyState.Walk);
+        canvas = GetComponent<Canvas>();
+        
     }
 
     void Update()
