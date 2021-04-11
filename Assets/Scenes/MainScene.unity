@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 0.082
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.031326294, g: 0.032218155, b: 0.032205466, a: 0.082}
+  m_IndirectSpecularColor: {r: 0.002385131, g: 0.0024516406, b: 0.002451484, a: 0.082}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -755,14 +755,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 834731517}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: -17.33, y: 1.7, z: 28.16}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 43.1, y: 1.7, z: -96.3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 835150303}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &835150303
 Transform:
   m_ObjectHideFlags: 0
@@ -1392,8 +1392,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1713837712}
-  m_LocalRotation: {x: -0.022100484, y: 0.9693957, z: 0.22524963, w: 0.09511132}
-  m_LocalPosition: {x: 20.590204, y: -67.69874, z: 11.180557}
+  m_LocalRotation: {x: 0.25052625, y: 0.63842344, z: 0.2317944, w: -0.68987215}
+  m_LocalPosition: {x: 63.28934, y: -44.24459, z: -46.037067}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1411,7 +1411,7 @@ GameObject:
   - component: {fileID: 1732142894}
   - component: {fileID: 1732142893}
   m_Layer: 0
-  m_Name: Terrain
+  m_Name: MainStage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
