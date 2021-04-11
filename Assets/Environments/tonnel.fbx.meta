@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 73ecf0b3f75654327ad3b1179f543d08
+guid: c8be1da452ed3464582fdfd60e3f7c25
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
@@ -8,32 +8,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Concrit
-    second: {fileID: 2100000, guid: b180ae69f2e924d9d9e1eb0ba9156a8f, type: 2}
+    second: {fileID: 2100000, guid: 3e9e4e6323160ab499d41b5835bffdb1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Road2
-    second: {fileID: 2100000, guid: cb7826f1fec114905a44ab5c3564c23e, type: 2}
+    second: {fileID: 2100000, guid: c6b436877935ecd42a63be540e144270, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: concrete_wal_lold
-    second: {fileID: 2100000, guid: a737a88e8aa7b4b988ff5c9004ac25a0, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Road texture
-    second: {fileID: 2800000, guid: b055a4345b2a044598248280a8a83ce0, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: concrete_wallold
-    second: {fileID: 2800000, guid: 48eb970e4dd2d4f79858616d9182962e, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: concrit
-    second: {fileID: 2800000, guid: 69cde0553ab7c403e9817ebc258e0d42, type: 3}
+    second: {fileID: 2100000, guid: a178b32c49cabde47981907b5431078a, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
