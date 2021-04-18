@@ -17,7 +17,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &4867528393344068
 Transform:
@@ -563,7 +563,7 @@ MonoBehaviour:
     geometryMode: 2
     materialBranch: {fileID: 0}
     materialBreak: {fileID: 0}
-    materialFrond: {fileID: 0}
+    materialFrond: {fileID: 2100000, guid: 032ad1b94e27e1041a630e9862184942, type: 2}
     height: {x: 6.6230316, y: 8.460208}
     radius: 0.5
     radiusCurve:
